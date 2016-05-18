@@ -9,3 +9,5 @@ And something in the middle.
 Even more something.
 
 feature 1
+
+bugfix feature 1
